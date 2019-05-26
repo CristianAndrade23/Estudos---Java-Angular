@@ -1,4 +1,4 @@
-package com.company;
+package com.heranca;
 
 public class Pessoa {
     private String nome;
