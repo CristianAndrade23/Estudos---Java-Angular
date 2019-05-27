@@ -8,12 +8,13 @@ public class Main {
         Peixe peixePalhaco = new Peixe();
         Ave falcao = new Ave();
 
+        Cachorro boby = new Cachorro();
+        Cobra snake = new Cobra();
+        Arara araraAzul = new Arara();
 
-        serHumano.setPeso(75.5f);
-        serHumano.setCorDoPelo("Castanho");
-        serHumano.alimentar();
-        serHumano.locomover();
-        serHumano.emitirSom();
+        snake.locomover();
+        snake.picar();
 
+        boby.emitirSom();
     }
 }
