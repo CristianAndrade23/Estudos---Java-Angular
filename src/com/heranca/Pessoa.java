@@ -2,7 +2,7 @@ package com.heranca;
 
 public class Pessoa {
     private String nome;
-    private int idade;
+    private Integer idade;
     private String sexo;
 
     public void fazerAniversario(){
@@ -25,7 +25,7 @@ public class Pessoa {
         this.nome = nome;
     }
 
-    public void setIdade(int idade) {
+    public void setIdade(Integer idade) {
         this.idade = idade;
     }
 
