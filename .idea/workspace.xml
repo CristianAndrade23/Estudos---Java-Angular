@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9528c254-409c-42bd-9457-d27a2eb45530" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/META-INF/PrimeirProjeto1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Professor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Arara.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Arara.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Ave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Ave.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Cachorro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Cobra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Cobra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Mamifero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Mamifero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Peixe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Peixe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Reptil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Reptil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/heranca/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heranca/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/heranca/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/heranca/Pessoa.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="34" />
+          <entry key="java" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="34" />
+          <entry key="JAVA" value="53" />
         </counts>
       </usages-collector>
     </session>
@@ -65,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/heranca/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="330">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -360,12 +342,12 @@
       <updated>1558898333659</updated>
       <workItem from="1558898342751" duration="9088000" />
       <workItem from="1558971773632" duration="2536000" />
-      <workItem from="1559321487012" duration="970000" />
+      <workItem from="1559321487012" duration="1914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12594000" />
+    <option name="totallyTimeSpent" value="13538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-11" width="1311" height="780" extended-state="6" />
@@ -583,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heranca/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
