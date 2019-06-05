@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9528c254-409c-42bd-9457-d27a2eb45530" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/stackQueue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/stackQueue/Teste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tryCatch/tryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mapHashmap/mapHashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackQueue/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stackQueue/arrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/META-INF/PrimeirProjeto1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/heranca/Professor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Arara.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Arara.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Ave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Ave.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Cachorro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Cobra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Cobra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Mamifero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Mamifero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Peixe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Peixe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Reptil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/polimorfismo/Reptil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/stackQueue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/stackQueue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/stackQueue/Teste01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PrimeirProjeto1/com/tryCatch/tryCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackQueue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackQueue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackQueue/Teste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackQueue/stackQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tryCatch/tryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exceptions/tryCatch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,32 +21,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="291948742">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="dummy" value="46" />
+          <entry key="java" value="619" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="619" />
+          <entry key="PLAIN_TEXT" value="46" />
         </counts>
       </usages-collector>
     </session>
@@ -63,111 +72,115 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Cachorro.java">
+        <entry file="file://$PROJECT_DIR$/src/com/stackQueue/arrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mapHashmap/mapHashmap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/stackQueue/Main.java">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="225">
+              <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
               <folding>
-                <element signature="e#201#209#0" expanded="true" />
+                <element signature="e#19327#19328#0" expanded="true" />
+                <element signature="e#19410#19411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="184" column="12" selection-start-line="184" selection-start-column="12" selection-end-line="184" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackQueue/stackQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#214#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackQueue/Pessoa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/tryCatch/tryCatch.java">
+        <entry file="file://$PROJECT_DIR$/src/com/stackQueue/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/stackQueue/Teste01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="103">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#133#142#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Cobra.java">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="128">
+              <caret line="110" column="36" lean-forward="true" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Arara.java">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Collection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="128">
+              <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Ave.java">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-              <folding>
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Reptil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Peixe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-              <folding>
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -206,11 +219,17 @@
         <option value="$PROJECT_DIR$/src/com/polimorfismo/Main.java" />
         <option value="$PROJECT_DIR$/src/com/polimorfismo/Cachorro.java" />
         <option value="$PROJECT_DIR$/src/com/vetor/TesteVetor.java" />
-        <option value="$PROJECT_DIR$/src/com/stackQueue/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/stackQueue/Teste01.java" />
         <option value="$PROJECT_DIR$/src/com/tryCatch/Main.java" />
         <option value="$PROJECT_DIR$/src/com/tryCatch/Teste01.java" />
         <option value="$PROJECT_DIR$/src/com/tryCatch/tryCatch.java" />
+        <option value="$PROJECT_DIR$/src/com/stackQueue/Teste01.java" />
+        <option value="$PROJECT_DIR$/src/com/stackQueue/stackQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/stackQueue/arrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/mapHashmap/Teste01.java" />
+        <option value="$PROJECT_DIR$/src/com/exceptions/tryCatch.java" />
+        <option value="$PROJECT_DIR$/src/com/mapHashmap/mapHashmap.java" />
+        <option value="$PROJECT_DIR$/src/com/stackQueue/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/com/stackQueue/Main.java" />
       </list>
     </option>
   </component>
@@ -220,11 +239,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="127" />
-    <option name="y" value="6" />
-    <option name="width" value="1750" />
-    <option name="height" value="918" />
+    <option name="x" value="-277" />
+    <option name="y" value="-28" />
+    <option name="width" value="1307" />
+    <option name="height" value="764" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -234,6 +259,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,22 +283,35 @@
               <item name="Estudos---Java-Angular" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Estudos---Java-Angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Estudos---Java-Angular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mapHashmap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Estudos---Java-Angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Estudos---Java-Angular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="stackQueue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559751024553" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559771910603" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,21 +325,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tryCatch">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.polimorfismo.Main" />
-      <module name="PrimeirProjeto1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.polimorfismo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackQueue.Main" />
       <module name="PrimeirProjeto1" />
       <extension name="coverage">
@@ -313,18 +339,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.heranca.Main" />
+    <configuration name="arrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackQueue.arrayList" />
       <module name="PrimeirProjeto1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackQueue.Teste01" />
+    <configuration name="mapHashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mapHashmap.mapHashmap" />
+      <module name="PrimeirProjeto1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mapHashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stackQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackQueue.stackQueue" />
       <module name="PrimeirProjeto1" />
       <extension name="coverage">
         <pattern>
@@ -337,11 +379,11 @@
       </method>
     </configuration>
     <configuration name="tryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tryCatch.tryCatch" />
+      <option name="MAIN_CLASS_NAME" value="com.exceptions.tryCatch" />
       <module name="PrimeirProjeto1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tryCatch.*" />
+          <option name="PATTERN" value="com.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,19 +392,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Teste01" />
+      <item itemvalue="Application.arrayList" />
+      <item itemvalue="Application.stackQueue" />
       <item itemvalue="Application.tryCatch" />
+      <item itemvalue="Application.mapHashmap" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tryCatch" />
-        <item itemvalue="Application.Teste01" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.tryCatch" />
+        <item itemvalue="Application.arrayList" />
+        <item itemvalue="Application.mapHashmap" />
+        <item itemvalue="Application.stackQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -377,12 +419,13 @@
       <option name="presentableId" value="Default" />
       <updated>1558898333659</updated>
       <workItem from="1558898342751" duration="9088000" />
-      <workItem from="1559738286871" duration="2041000" />
+      <workItem from="1559738286871" duration="12819000" />
+      <workItem from="1559766466641" duration="4345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11129000" />
+    <option name="totallyTimeSpent" value="26252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-11" width="1311" height="780" extended-state="6" />
@@ -393,31 +436,32 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15756136" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13301663" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SonarLint" weight="0.22981367" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.26203966" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.26086956" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.27620396" />
-      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.39906833" />
+      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.36024845" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32763976" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Database" order="1" weight="0.3293745" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24940617" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3293745" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,6 +469,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/heranca/Aluno.java">
@@ -534,6 +582,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vetor/TesteVetor.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tryCatch/Teste01.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tryCatch/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/exceptions/tryCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/IndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Reptil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -558,70 +648,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vetor/TesteVetor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/polimorfismo/Cachorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackQueue/Teste01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#133#142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tryCatch/Teste01.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#131#140#0" expanded="true" />
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tryCatch/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/stackQueue/arrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="150">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackQueue/stackQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding>
-            <element signature="e#199#207#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#223#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackQueue/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="184" column="12" selection-start-line="184" selection-start-column="12" selection-end-line="184" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mapHashmap/mapHashmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="110" column="36" lean-forward="true" selection-start-line="110" selection-start-column="36" selection-end-line="110" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stackQueue/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="103">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <element signature="e#201#209#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tryCatch/tryCatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>

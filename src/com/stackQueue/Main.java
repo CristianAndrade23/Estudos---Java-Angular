@@ -1,37 +1,25 @@
 package com.stackQueue;
 
-import java.util.ArrayList;
+import java.lang.reflect.Type;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
+        Pessoa pessoa = new Pessoa ( 1, "Cristian" );
+        Pessoa pessoa2 = new Pessoa ( 2, "Cristian boca murcha" );
 
-        ArrayList<String> arrayList = new ArrayList<>();
+        System.out.println (pessoa.equals ( pessoa2 ));
 
-        ArrayList<Number> arrayNumbers = new ArrayList<Number>();
+        System.out.println (pessoa);
+        System.out.println (pessoa2);
 
+        Map<Integer, Pessoa> map = new HashMap<> (  );
 
-        arrayList.add("Cristian");
-        arrayList.add("Rafaela");
+        map.put ( 1,  new Pessoa ( 1, "Cristian" ));
 
-        arrayNumbers.add(3);
-        arrayNumbers.add(4);
-        arrayNumbers.add(5);
-
-        System.out.println(arrayList);
-        System.out.println(arrayNumbers);
-
-        boolean existe = arrayList.contains("João");
-        if (existe){
-            System.out.println("Nome contém no array");
-        } else {
-            System.out.println("Nome nao contém no array");
-        }
-
-        boolean existe2 = arrayNumbers.contains(5);
-        if (existe2){
-            System.out.println("Numero contém no array");
-        } else {
-            System.out.println("Numero não contém no array  ");
-        }
+        System.out.println (map.containsValue ( pessoa2 ));
     }
 }
