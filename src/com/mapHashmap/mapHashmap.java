@@ -7,7 +7,7 @@ public class mapHashmap {
     public static void main(String[] args){
         Map<Integer, String> nomes = new HashMap<> ();
 
-        nomes.put(null, "Chapolim"); // adiciona valores ou substituui valores existentes
+        nomes.put(null, "Chapolim"); // adiciona valores ou substitui valores existentes
         nomes.put(888, "Ademilson");
         nomes.put(333, "Bruce Lee");
 
