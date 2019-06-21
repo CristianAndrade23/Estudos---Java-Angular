@@ -1,4 +1,4 @@
-package com.threads.Synchronized;
+package com.Synchronized;
 
 public class ThreadSoma implements Runnable {
 
@@ -6,15 +6,15 @@ public class ThreadSoma implements Runnable {
     private int[] nums;
     private static Calculadora calc = new Calculadora();
 
-    public ThreadSoma(String nome, int[] nums){
+    public ThreadSoma(String nome, int[] nums) {
         this.nome = nome;
         this.nums = nums;
         new Thread(this, nome).start();
     }
 
-    public void run(){
+    public void run() {
 
-        System.out.println(this.nome + " iniciada");
+        System.out.println(this.nome + " iniciou!");
 
         int soma = calc.somaArray(this.nums);
 

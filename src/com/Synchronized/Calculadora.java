@@ -1,7 +1,6 @@
-package com.threads.Synchronized;
+package com.Synchronized;
 
 public class Calculadora {
-
     private int soma;
 
     public synchronized int somaArray(int[] array) {
@@ -11,8 +10,8 @@ public class Calculadora {
 
             soma += array[i];
 
-            System.out.println("Executando a soma " + Thread.currentThread().getName() +
-                                " somando o valor " + array[i] + " com o total de " + soma);
+            System.out.println(Thread.currentThread().getName() +
+                    " somando " + array[i] + " com " + soma);
 
             try{
                 Thread.sleep(500);
