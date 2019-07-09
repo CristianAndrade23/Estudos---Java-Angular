@@ -1,0 +1,6 @@
+
+Wsquid:S1854";Remove this useless assignment to local variable "thread1".(ЅюВ’юяяяя
+Hsquid:S1481",Remove this unused "thread1" local variable.(ЅюВ’юяяяя
+Csquid:S1481",Remove this unused "thread2" local variable.(…’вЫ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Й…бг
+Rsquid:S1854";Remove this useless assignment to local variable "thread2".(…’вЫ
